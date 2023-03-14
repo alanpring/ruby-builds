@@ -1,7 +1,7 @@
 #Movie Ratings
 #
 #
-#Improvements
+#Improvements to come:
 #treat spaces as underscores for input
 #validate input choice
 #
