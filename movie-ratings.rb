@@ -67,7 +67,7 @@ case choice
     end
   when "oscar"
     puts "Looks like you want to be a movie star..."
-    #better method to achieve this
+    #refatcor this? sleep gets in the way...
     pause = [".",".","."]
     pause.each do |i|
       sleep(1)
