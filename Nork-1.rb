@@ -119,7 +119,7 @@ puts
 
 
 #while loop to run game
-#while player has health and not escaped
+#while player has health and not escaped, allow actions
 while player_hp > 0 and not player_escaped do
   #game code
   #will be infinite at this point
